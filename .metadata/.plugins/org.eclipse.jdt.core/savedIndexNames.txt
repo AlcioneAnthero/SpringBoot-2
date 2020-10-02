@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Proevento\Desktop\SpringBoot-sts\.metadata\.plugins\org.eclipse.jdt.core
+1795528646.index

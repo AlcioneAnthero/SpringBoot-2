@@ -1,0 +1,5 @@
+package com.helloWorldAlcione.controller;
+
+public class HelloController {
+
+}
